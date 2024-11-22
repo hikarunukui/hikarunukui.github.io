@@ -1,4 +1,4 @@
-# Hikaru Nukui
+## Education
+- Waseda University
 
 ## Working paper
-
