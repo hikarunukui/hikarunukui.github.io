@@ -1,3 +1,7 @@
+I am Ph.D. student at Graduate School of Political Science, Waseda University.
+My research interest includes political behavior, comparative political economy, and causal inference. I use natural experiments and survey experiments for my research.
+You can find my CV [here](https://www.dropbox.com/scl/fi/6b3lsvm9h6tnm7xylr9m8/CV_November2024.pdf?rlkey=gp2f46a8tj6ths25oyd1szswp&st=estp60i7&dl=0).
+
 ## Education
 - Waseda University Ph.D. student, Political Science
 - Waseda University M.A., Political Science
