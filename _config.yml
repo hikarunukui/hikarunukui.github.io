@@ -1,8 +1,8 @@
 # github_profile: https://github.com/hikarunukui/hikarunukui.github.io/
+github:
+  is_project_page: false
 title: Hikaru Nukui
 description: Ph.D student at Graduate School of Political Science, Waseda University
 theme: jekyll-theme-minimal
 plugins:
  - jekyll-sitemap
-github:
-  is_project_page: false
