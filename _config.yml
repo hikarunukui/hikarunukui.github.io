@@ -1,3 +1,5 @@
 title: Hikaru Nukui
 description: Ph.D student at Graduate School of Political Science, Waseda University
 theme: jekyll-theme-minimal
+plugins:
+ - jekyll-sitemap
