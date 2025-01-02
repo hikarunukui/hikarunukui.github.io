@@ -1,8 +1,3 @@
----
-layout: default
-github_profile: false
----
-
 I am Hikaru Nukui (貫井 光), a Ph.D. student at Graduate School of Political Science, Waseda University. My research interest includes political behavior, comparative political economy, and causal inference. I use natural experiments and survey experiments for my research.  
 
 Contact: hicaru0804[at]akane.waseda.jp
