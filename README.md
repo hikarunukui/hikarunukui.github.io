@@ -10,3 +10,6 @@ Contact: hicaru0804[at]akane.waseda.jp
 ## Working paper
 - Deep Cultural Roots of Radical Right Support: Evidence from Switzerland
 - Activating the Environmental Norms: The Effect of Electing a Female Candidate on Agricultural Practices of Farmers
+
+## Publication
+- Preferences for Female Successors: Evidence from a Survey Experiment among Japanese Local Politicians (with Yoshikuni Ono and Hirofumi Miwa). Accepted, *Electoral Studies*.
