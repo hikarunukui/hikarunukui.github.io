@@ -5,7 +5,7 @@ Contact: hicaru0804[at]akane.waseda.jp
 ## Education
 - Waseda University Ph.D. student, Political Science
 - Waseda University M.A., Political Science
-- Sophia University B.A., Faculty of Liberal Arts
+- Sophia University B.A.
 
 ## Working paper
 - Deep Cultural Roots of Radical Right Support: Evidence from Switzerland
