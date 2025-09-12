@@ -4,7 +4,7 @@ Contact: hicaru0804[at]akane.waseda.jp
 
 ## Education
 - Waseda University Ph.D. student, Political Science
-- Waseda University M.A., Political Science
+- Waseda University M.A.
 - Sophia University B.A.
 
 ## Working paper
