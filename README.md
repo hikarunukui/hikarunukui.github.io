@@ -10,7 +10,6 @@ Contact: hicaru0804[at]akane.waseda.jp
 ## Working paper
 - Deep Cultural Roots of Radical Right Support: Evidence from Switzerland
 - Activating the Environmental Norms: The Effect of Electing a Female Candidate on Agricultural Practices of Farmers
-- Investing in Discontent: Electoral Consequences of Railway Closure
 
 ## Publication
 - Nukui, Hikaru, Hirofumi Miwa, and Yoshikuni Ono. (2025) "[Preferences for Female Successors: Evidence from a Survey Experiment among Japanese Local Politicians.](https://www.sciencedirect.com/science/article/pii/S0261379425000629)" *Electoral Studies* 96: 102956.
