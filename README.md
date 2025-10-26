@@ -7,10 +7,6 @@ Contact: hicaru0804[at]akane.waseda.jp
 - Waseda University M.A.
 - Sophia University B.A.
 
-## Working paper
-- Deep Cultural Roots of Radical Right Support: Evidence from Switzerland
-- Activating the Environmental Norms: The Effect of Electing a Female Candidate on Agricultural Practices of Farmers
-
 ## Publication
 - Nukui, Hikaru, Hirofumi Miwa, and Yoshikuni Ono. (2025) "[Preferences for Female Successors: Evidence from a Survey Experiment among Japanese Local Politicians.](https://www.sciencedirect.com/science/article/pii/S0261379425000629)" *Electoral Studies* 96: 102956.
   <details>
