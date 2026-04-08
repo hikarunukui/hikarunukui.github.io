@@ -1,6 +1,7 @@
 I am Hikaru Nukui (貫井 光), a Ph.D. student at Graduate School of Political Science, Waseda University. My research interests lie at the intersection of political behavior and comparative political economy, with a particular focus on advanced democracies. I use natural experiments and survey experiments for my research.  
 
 Contact: hicaru0804[at]akane.waseda.jp
+Other site: [Reseachmap](https://researchmap.jp/hikarunukui)
 
 ## Education
 - Waseda University Ph.D. student, Political Science
