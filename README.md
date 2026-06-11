@@ -2,7 +2,7 @@ I am Hikaru Nukui (貫井 光), a Ph.D. student at Graduate School of Political 
 
 Contact: hicaru0804[at]akane.waseda.jp
 
-Other website: [Reseachmap](https://researchmap.jp/hikarunukui)
+Other website: [Reseachmap](https://researchmap.jp/hikarunukui), [Google Scholar](https://scholar.google.com/citations?user=uPlic54AAAAJ&hl=ja&oi=ao)
 
 ## Education
 - Waseda University Ph.D. student, Political Science
