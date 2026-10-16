@@ -10,7 +10,7 @@ Other website: [Reseachmap](https://researchmap.jp/hikarunukui), [Google Scholar
 - Sophia University B.A.
 
 ## Publication
-- Endo, Yuya, Hirofumi Miwa, Hikaru Nukui, and Yoshikuni Ono. "Gender and Presiding Roles in Legislatures: Discrepancies in Mass and Elite Perceptions from Parallel Survey Experiments" *Legislative Studies Quarterly* Accepted.
+- Endo, Yuya, Hirofumi Miwa, Hikaru Nukui, and Yoshikuni Ono. "Gender and Presiding Roles in Legislatures: Discrepancies in Mass and Elite Perceptions from Parallel Survey Experiments." *Legislative Studies Quarterly* Accepted.
   <details>
   <summary>abstract</summary>
   Women are far less likely than men to serve as chairs of legislatures—a disparity often attributed to gender norms that associate leadership with men and assign women to subordinate roles. We test these assumptions that explain the gender gap in legislative leadership using vignette experiments with over 4,000 voters and 7,000 elected municipal council members in Japan. We find a significant gap between voters’ perceptions of legislators' preferences and council members' evaluations of women’s suitability for leadership. Voters believe council members prefer men as chairs and women as vice-chairs, whereas council members view female colleagues as equally or more suitable for both roles. These results suggest that legislators' expressed gender bias alone may not fully explain women’s underrepresentation as presiding officers and that institutional or supply-side constraints may also play a role. By distinguishing voters' perceptions of elite preferences from elites' own evaluations, our micro-level evidence contributes to debates over women's underrepresentation in political leadership.
